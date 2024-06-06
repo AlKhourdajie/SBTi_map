@@ -1,4 +1,6 @@
-# SBTi Map
+# Science-based targets miss the mark
+
+## SBTi Map
 
 ## Introduction
 This repository contains the script that generates the map for Figure 1. Uneven ambitions of the following paper
