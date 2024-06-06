@@ -3,8 +3,7 @@
 ## SBTi Map
 
 ## Introduction
-This repository contains the script that generates the map for Figure 1. Uneven ambitions of the following paper
-> Reisinger ... (2024). Science-based targets miss the mark. Communications Earth & Environment. DOI
+Intro text to be added
 
 ## Data
 The data used is based on SBTi “Companies Taking Action” online  dashboard. 
