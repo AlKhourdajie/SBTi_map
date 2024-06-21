@@ -5,6 +5,9 @@
 ## Introduction
 Intro text to be added
 
+## Figure 1
+![alt text](https://github.com/AlKhourdajie/SBTi_map/blob/main/SBTi_1.5%C2%B0C_map_with_bar_chart.png)
+
 ## Data
 The data used is based on SBTi “Companies Taking Action” online  dashboard. 
 
