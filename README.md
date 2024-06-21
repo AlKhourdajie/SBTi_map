@@ -1,7 +1,5 @@
 # Science-based targets miss the mark
 
-## SBTi Map
-
 ## Introduction
 Intro text to be added
 
