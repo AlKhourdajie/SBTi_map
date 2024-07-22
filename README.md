@@ -5,7 +5,7 @@ Latest release can be found on Zenodo:
 
 ## Introduction
 This repository contains the script for Figure 1 in the perspective paper
-> Reisinger, A., Cowie, A. L., Geden, O., & Al Khourdajie, A. (2024). Science-based targets miss the mark. Communications Earth & Environment - Nature, XXX. https://doi.XXX.
+> Reisinger, A., Cowie, A. L., Geden, O., & Al Khourdajie, A. (2024). Science-based targets miss the mark. Communications Earth & Environment - Nature. [https://doi.XXX.](https://doi.org/10.1038/s43247-024-01535-z)
 
 ## Figure 1
 ![alt text](https://github.com/AlKhourdajie/SBTi_map/blob/main/SBTi_1.5%C2%B0C_map_with_bar_chart.png)
