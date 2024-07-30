@@ -1,7 +1,12 @@
 # Science-based targets miss the mark
 
+Latest release can be found on Zenodo:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12801799.svg)](https://doi.org/10.5281/zenodo.12801799) 
+
+
 ## Introduction
-Intro text to be added
+This repository contains the script for Figure 1 in the perspective paper
+> Reisinger, A., Cowie, A. L., Geden, O., & Al Khourdajie, A. (2024). Science-based targets miss the mark. Communications Earth & Environment, 5, 383 (2024). [https://doi.org/10.1038/s43247-024-01535-z](https://doi.org/10.1038/s43247-024-01535-z)
 
 ## Figure 1
 ![alt text](https://github.com/AlKhourdajie/SBTi_map/blob/main/SBTi_1.5%C2%B0C_map_with_bar_chart.png)
